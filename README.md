@@ -18,7 +18,7 @@ This repository contains the final research project for IFN695 – Integration A
   - LSTM (sequential time-series prediction using 7-day history)
 - **Evaluation Metrics**:
   - RMSE, MAE, MAPE, R² Score
-  - 
+    
 # Key Results
 - **LSTM** achieved the best forecast performance with ~9.9% MAPE.
 - **ARIMA** struggled with non-linearity, showing lower R² and higher error.
